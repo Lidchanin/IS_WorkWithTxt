@@ -1,0 +1,8 @@
+Firebase Analytics provides free, unlimited reporting on up to 500 distinct events
+View crash data, notification effectiveness, deep link performance, in-app purchase data, and more.
+Close the loop and send conversion data back to those networks via postbacks to optimize campaign performance.
+AdWords helps you advertise your app to the billions of people that use Search, YouTube, Google Play, and more
+Firebase Analytics integrates with dozens of ad networks, making it easy to track and attribute app campaign performance across sources with just one SDK
+Firebase Analytics surfaces data about user behavior in your Android and iOS apps, enabling you to make better decisions about your product and marketing optimization
+The SDK automatically captures certain key events and user properties, and you can define your own custom events to measure the things that uniquely matter to your business.
+In just a few minutes, you can use your Firebase Analytics data to understand campaign performance, unlocking optimizations to find more engaged and valuable customers for your app via Universal App Campaign.
