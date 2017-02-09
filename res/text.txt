@@ -1,8 +1,14 @@
-Firebase Analytics provides free, unlimited reporting on up to 500 distinct events
-View crash data, notification effectiveness, deep link performance, in-app purchase data, and more.
-Close the loop and send conversion data back to those networks via postbacks to optimize campaign performance.
-AdWords helps you advertise your app to the billions of people that use Search, YouTube, Google Play, and more
-Firebase Analytics integrates with dozens of ad networks, making it easy to track and attribute app campaign performance across sources with just one SDK
-Firebase Analytics surfaces data about user behavior in your Android and iOS apps, enabling you to make better decisions about your product and marketing optimization
-The SDK automatically captures certain key events and user properties, and you can define your own custom events to measure the things that uniquely matter to your business.
-In just a few minutes, you can use your Firebase Analytics data to understand campaign performance, unlocking optimizations to find more engaged and valuable customers for your app via Universal App Campaign.
+jar cf jar-file input-file(s)
+You can use any filename for a JAR file
+The options and arguments used in this command are:
+The c option indicates that you want to create a JAR file.
+The basic format of the command for creating a JAR file is:
+The input-file(s) argument can contain the wildcard * symbol
+jar-file is the name that you want the resulting JAR file to have
+The command will also generate a default manifest file for the JAR archive
+By convention, JAR filenames are given a .jar extension, though this is not required.
+The f option indicates that you want the output to go to a file rather than to stdout.
+This command will generate a compressed JAR file and place it in the current directory
+The c and f options can appear in either order, but there must not be any space between them.
+The input-file(s) argument is a space-separated list of one or more files that you want to include in your JAR file
+If any of the "input-files" are directories, the contents of those directories are added to the JAR archive recursively.
